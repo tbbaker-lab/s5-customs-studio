@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "studio": "S5 Customs Studio",
+  "latest": "5.2.0",
+  "required": false,
+  "published": "YYYY-MM-DD",
+  "summary": "What changed",
+  "download": "downloads/S5-Customs-Studio-v5.2.0.exe",
+  "filename": "S5-Customs-Studio-v5.2.0.exe",
+  "size": 0,
+  "sha256": "PUT_SHA256_HERE",
+  "notes": [
+    "Change 1",
+    "Change 2"
+  ]
+}

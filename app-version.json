@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "studio": "S5 Customs Studio",
+  "latest": "5.1.0",
+  "required": false,
+  "published": "2026-09-08",
+  "summary": "Creator Hub update with optional GitHub-delivered app updates.",
+  "download": "downloads/S5-Customs-Studio-v5.1-Updatable.exe",
+  "filename": "S5-Customs-Studio-v5.1-Updatable.exe",
+  "size": 12003840,
+  "sha256": "e852673b86ab1097bcec0c95dc336158f2231ff2868cb2193fc448296dad1fd9",
+  "notes": [
+    "Optional GitHub Pages app updater added.",
+    "Update Now, Remind Me Later and Skip This Version controls.",
+    "Downloaded EXE is SHA-256 verified before S5 offers it.",
+    "Existing GitHub asset updater remains separate from app updates.",
+    "Creator Hub, chain/clothing/gun project templates, tutorials and saved projects remain included."
+  ]
+}
