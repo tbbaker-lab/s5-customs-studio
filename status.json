@@ -1,0 +1,10 @@
+{
+  "service": "S5 Customs Studio Update + Asset Server",
+  "online": true,
+  "studio_latest": "5.1.0",
+  "asset_manifest": "s5-assets-manifest.json",
+  "app_manifest": "app-version.json",
+  "updated": "2026-09-08",
+  "studio_version": "5.1.1",
+  "status": "online"
+}
