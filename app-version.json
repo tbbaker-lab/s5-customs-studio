@@ -1,0 +1,24 @@
+{
+  "schema": 2,
+  "studio": "S5 Customs Studio",
+  "latest": "5.3.1",
+  "required": false,
+  "delivery": "cloud",
+  "published": "2026-09-08",
+  "summary": "Selection, HUD, clothing and gun workspace fixes.",
+  "app_url": "app/latest.html",
+  "download": "downloads/S5-Customs-Studio-v5.3.1-PRO-LAUNCHER.exe",
+  "filename": "S5-Customs-Studio-v5.3.1-PRO-LAUNCHER.exe",
+  "size": 12003840,
+  "sha256": "39bedb13a4f0b087c5bbca3ede797b5c983d1cf60b4ecad892b490ea4b3b271b",
+  "notes": [
+    "Click empty viewport space to deselect and hide the transform gizmo.",
+    "Click directly onto another model to switch selection.",
+    "Orbiting the camera no longer changes selection.",
+    "Gun workspace hides the FiveM ped and its Explorer row.",
+    "Clothing workspace is OBJ-first and opens the correct tools.",
+    "Mode-aware, wider HUD and larger controls.",
+    "New primitive objects spawn at the project focus instead of under the ped.",
+    "APP_VERSION fixed to stop false update prompts."
+  ]
+}
