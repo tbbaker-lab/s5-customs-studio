@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "studio": "S5 Customs Studio",
+  "latest": "5.4.0",
+  "required": false,
+  "delivery": "cloud",
+  "published": "2026-09-08",
+  "summary": "Fixes jewellery import pivots/fitting, hardens project-mode switching, adds gun base targeting, mode-aware FiveM exports, and optional Discord role login before Studio boot.",
+  "app_url": "app/latest.html",
+  "download": "downloads/S5-Customs-Studio-v5.4.0-DISCORD-FIRST-LAUNCHER.exe",
+  "filename": "S5-Customs-Studio-v5.4.0-DISCORD-FIRST-LAUNCHER.exe",
+  "notes": [
+    "Centered transform pivots on imported jewellery so gizmos sit on the model.",
+    "Tighter chain fit envelope prevents giant loops around the ped body.",
+    "Click empty to deselect; click another model to switch selection immediately.",
+    "Clothing project force-opens OBJ clothing tools and never falls back to chain cards.",
+    "Gun projects hide the ped and let you select the GTA base weapon target.",
+    "FiveM export is mode-aware and includes exact native target naming plus source/textures.",
+    "Optional Discord OAuth role gate can protect S5 before boot without changing bot.py."
+  ],
+  "size": 12003840,
+  "sha256": "cff094f5e798770d64f5557bd2350f15edc62363762c63c4b03cefc75fc4410f"
+}

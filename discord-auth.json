@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "client_id": "1541224837073215529",
+  "guild_id": "1534696811908960326",
+  "allowed_role_ids": [
+    "1545871443772837909"
+  ],
+  "redirect_uri": "https://tbbaker-lab.github.io/s5-customs-studio/app/latest.html"
+}
