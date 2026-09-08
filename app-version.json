@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "studio": "S5 Customs Studio",
+  "latest": "5.1.3",
+  "required": false,
+  "published": "2026-09-08",
+  "summary": "Cloud-hosted engine fix: the EXE now opens the S5 editor over GitHub Pages HTTPS before loading Three.js, avoiding the local file/CDN module failure.",
+  "download": "downloads/S5-Customs-Studio-v5.1.3-CLOUD-LAUNCHER.exe",
+  "filename": "S5-Customs-Studio-v5.1.3-CLOUD-LAUNCHER.exe",
+  "size": 12003840,
+  "sha256": "aeb53ade519c654f91f9ced8b44a2f12ed3c4b7758cc3af901921fd4ca0b613c",
+  "notes": [
+    "Fixes the repeated 3D engine loading failure in the embedded local HTML build.",
+    "The Windows EXE now acts as the S5 launcher and opens the full editor from your GitHub Pages app folder.",
+    "Three.js modules load from an HTTPS page instead of a local file origin.",
+    "Your chain asset server and optional update system remain separate and unchanged."
+  ]
+}
